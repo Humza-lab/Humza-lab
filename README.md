@@ -1,3 +1,8 @@
+<h1 align="center">
+  Hi, I'm Hamza
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
 # 💫 About Me:
 ## About Me<br><br>🔭 I'm currently working on Kubernetes, Docker, Jenkins, and CI/CD projects.<br><br>👯 I'm looking to collaborate on open-source DevOps and cloud-native projects.<br><br>🤝 I'm looking for help with Kubernetes, Terraform, and cloud infrastructure.<br><br>🌱 I'm currently learning Kubernetes, Terraform, Ansible, and cloud technologies.<br><br>💬 Ask me about Linux, Docker, Git, Jenkins, and Python.<br><br>⚡ Fun fact: I prefer learning by building projects instead of watching long tutorials.
 
