@@ -6,7 +6,7 @@
 <h3 align="center">DevOps Engineer — Kubernetes · CI/CD · DevSecOps · Cloud Infra</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5263&center=true&vCenter=true&width=750&lines=Running+multi-master+Kubernetes+clusters;Shipping+pipelines+with+Jenkins+%2B+GitHub+Actions;Securing+CI%2FCD+with+SonarQube+%2B+Trivy;Watching+it+all+with+Prometheus+%2B+Grafana" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=400&speed=25&color=2C5263&center=true&vCenter=true&width=750&lines=Running+multi-master+Kubernetes+clusters;Shipping+pipelines+with+Jenkins+%2B+GitHub+Actions;Securing+CI%2FCD+with+SonarQube+%2B+Trivy;Watching+it+all+with+Prometheus+%2B+Grafana" alt="Typing SVG" />
 </p>
 
 <br>
@@ -107,13 +107,19 @@
 <br>
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamza-zia-1180a02b5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.behance.net/hamzazia21"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
-  <a href="https://www.instagram.com/humz__22/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:hamzazia4268@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <img src="https://raw.githubusercontent.com/Humza-lab/Humza-lab/main/assets/logo.svg" alt="Hamza Zia" width="700" />
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/hamza-zia-1180a02b5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.behance.net/hamzazia21"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.instagram.com/humz__22/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:hamzazia4268@gmail.com"><img src="https://img.shields.io/badge/hamzazia4268%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=Humza-lab&icon=0&color=1" />
 </p>
