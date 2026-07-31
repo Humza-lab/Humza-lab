@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="./WhatsApp%20Image%202026-07-31%20at%2010.38.05%20PM.jpeg" alt="Hamza Banner" width="100%">
+</p>
 <!--
 **Humza-lab/Humza-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
