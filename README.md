@@ -108,9 +108,6 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Humza-lab/Humza-lab/main/assets/logo.svg" alt="Hamza Zia" width="700" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza-zia-1180a02b5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
