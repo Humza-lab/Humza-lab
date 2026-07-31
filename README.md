@@ -6,7 +6,7 @@
 <h3 align="center">DevOps Engineer — Kubernetes · CI/CD · DevSecOps · Cloud Infra</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5263&center=true&vCenter=true&width=600&lines=Running+multi-master+Kubernetes+clusters;Shipping+pipelines+with+Jenkins+%2B+GitHub+Actions;Enforcing+DevSecOps+with+SonarQube+%2B+Trivy+%2B+OpenBao;Watching+it+all+with+Prometheus+%2B+Grafana" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5263&center=true&vCenter=true&width=750&lines=Running+multi-master+Kubernetes+clusters;Shipping+pipelines+with+Jenkins+%2B+GitHub+Actions;Securing+CI%2FCD+with+SonarQube+%2B+Trivy;Watching+it+all+with+Prometheus+%2B+Grafana" alt="Typing SVG" />
 </p>
 
 <br>
