@@ -6,18 +6,20 @@
 <h3 align="center">DevOps Engineer — Kubernetes · CI/CD · DevSecOps · Cloud Infra</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5263&center=true&vCenter=true&width=600&lines=Building+and+breaking+Kubernetes+clusters;Automating+pipelines+with+Jenkins+%2B+GitHub+Actions;Scanning+everything+with+SonarQube+%2B+Trivy;Watching+it+all+with+Prometheus+%2B+Grafana" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5263&center=true&vCenter=true&width=600&lines=Running+multi-master+Kubernetes+clusters;Shipping+pipelines+with+Jenkins+%2B+GitHub+Actions;Enforcing+DevSecOps+with+SonarQube+%2B+Trivy+%2B+OpenBao;Watching+it+all+with+Prometheus+%2B+Grafana" alt="Typing SVG" />
 </p>
 
 <br>
 
 ## 🔭 About Me
-- 🔭 Currently working on Kubernetes, Docker, Jenkins, and CI/CD projects
-- 🌱 Learning Terraform, Ansible, and deeper cloud-native infrastructure
-- 👯 Looking to collaborate on open-source DevOps / cloud-native projects
-- 🤝 Looking for help with Kubernetes, Terraform, and cloud infrastructure
-- 💬 Ask me about Linux, Docker, Git, Jenkins, and CI/CD pipelines
-- ⚡ Fun fact: I learn by building, not by watching tutorials
+- 🔧 DevOps Engineer with hands-on experience deploying and managing **on-premises Kubernetes clusters**, building **DevSecOps CI/CD pipelines**, and maintaining Linux infrastructure in a production environment
+- 🏗️ Designed a **multi-master Kubernetes cluster** using MetalLB for load balancing and Longhorn for persistent storage — automated node joining with a custom Bash script
+- 🔐 Applied policy-based access control, secret management, and encryption at rest with **OpenBao**, reducing exposure of sensitive credentials
+- 📈 Monitored infrastructure health and caught recurring incident patterns using **Prometheus + Grafana**
+- 🔁 Built **Jenkins** CI/CD pipelines with **SonarQube** (code quality) and **Trivy** (container vulnerability scanning) baked in
+- 🖥️ Provisioned and hardened Ubuntu-based on-prem servers — networking, SSH hardening, virtualization
+- ☁️ Working knowledge of **AWS** (EC2, S3, VPC, IAM) and **Azure**
+- 👯 Open to collaborating on open-source DevOps / cloud-native projects
 
 <br>
 
@@ -71,31 +73,36 @@
 
 <br>
 
-## 🚀 Featured Infrastructure Project
+## 💼 Experience
 
 <table>
 <tr>
 <td width="100%">
 
-### ☁️ Cloud-Based Disaster Recovery — Final Year Project
-Multi-region disaster recovery setup built on **Contabo** infrastructure.
+### DevOps Intern — Vconn Private Limited
+*Feb 2025 – Jan 2026*
 
-- Infrastructure provisioned with **Terraform**
-- Monitoring and alerting via **Prometheus + Grafana**
-- Resilience validated through **chaos engineering**
+- Designed and implemented a **multi-master Kubernetes cluster** (MetalLB + Longhorn) for high availability and reliable stateful workloads
+- Automated CI/CD pipelines with **Jenkins**, integrating **SonarQube** and **Trivy** for consistent, secure releases
+- Applied secret management and encryption at rest via **OpenBao**, strengthening the infrastructure security posture
+- Monitored infrastructure health with **Prometheus + Grafana**, flagging incident patterns to senior engineers
+- Wrote Bash automation for repeatable, consistent Kubernetes cluster provisioning
+- Maintained runbooks, incident documentation, and internal knowledge-base entries
 
 </td>
 </tr>
 </table>
 
-<!-- Add more project cards here as you build them — a second/third row makes this section hit harder -->
+<!-- 🚧 Once you push your own repos, add a project card here the same way — that's what will make this section hit even harder -->
 
 <br>
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Humza-lab&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" />
+  <img src="https://raw.githubusercontent.com/Humza-lab/Humza-lab/output/github-contribution-grid-snake.svg" />
 </p>
+
+<sub>⚠️ This animated snake eats your contribution graph — it needs a one-time GitHub Actions workflow to generate (I can walk you through the ~10 lines of YAML). It's a much stronger visual hook than a trophy badge, and it's driven entirely by real commit activity, not claims.</sub>
 
 <br>
 
