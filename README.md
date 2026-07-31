@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">
+  Hi, I'm Hamza
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 <p align="center">
   <img src="./WhatsApp%20Image%202026-07-31%20at%2010.38.05%20PM.jpeg" alt="Hamza Banner" width="100%">
 </p>
